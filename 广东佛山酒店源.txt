@@ -1,6 +1,7 @@
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
+翡翠台,http://103.209.159.198:8278/Hbo/playlist.m3u8?tid=m00db69f89ad9&ct=11786485&tsum=686eeda0ca26b2e660286839b538dd1c
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/qrfbg
 无线新闻,http://r.jdshipin.com/CkuBd
@@ -553,4 +554,5 @@ myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18 TVB Plus,http://bxtv.3a.ink/ap
 鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk 
 NOW新闻,http://bxtv.3a.ink/api.php?id=now  
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
+
 
