@@ -1,3 +1,12 @@
+凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
+凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
+凤凰香港http://rihou.cc:555/tv/[PL]凤凰香港
+无线翡翠,http://rihou.cc:555/tv/[SX]无线翡翠
+无线翡高,http://rihou.cc:555/tv/[PL]无线翡高
+无线翡4k,http://rihou.cc:555/tv/[PL]无线翡4k
+无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
+有线新闻,http://rihou.cc:555/tv/[Mt]有线新闻
+广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
@@ -554,5 +563,6 @@ myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18 TVB Plus,http://bxtv.3a.ink/ap
 鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk 
 NOW新闻,http://bxtv.3a.ink/api.php?id=now  
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
+
 
 
